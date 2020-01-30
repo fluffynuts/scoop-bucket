@@ -1,0 +1,14 @@
+{
+    "version": "1.0",
+    "url": "https://github.com/fluffynuts/dotnet-utils/archive/v1.0.zip",
+    "extract_dir": "dotnet-utils",
+    "hash": "sha256:479ABAA0D17187835BF7F3E929B617F9FC81D56751B0DF73325B6F670D3A135B",
+    "bin": [
+        "bin/certs.msc",
+        "bin/asmdeps.exe",
+        "bin/find-orphaned-code-files.exe",
+        "bin/remove-project-files.exe",
+        "bin/toggle-fusion.cmd",
+        "bin/list-installed-frameworks.ps1"
+    ]
+}
