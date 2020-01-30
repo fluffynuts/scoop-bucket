@@ -1,0 +1,6 @@
+{
+    "version": "0.5.2",
+    "url": "https://github.com/github/homebrew-gh/releases/download/v0.5.2/gh_0.5.2_windows_amd64.msi",
+    "hash": "fd311a4b964f6dca1ae014f602e8b33816569ecb341ffb9045e63c89b3d7ffcf",
+    "bin": "GitHub CLI/gh.exe"
+}
