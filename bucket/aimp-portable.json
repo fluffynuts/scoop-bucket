@@ -1,7 +1,7 @@
 {
     "version": "4.60.2170",
     "url": "http://aimp.su/storage/f152c8dde28cf99fb26f3326f76d4d6f/aimp_4.60.2170_no-installer.zip",
-    "hash": "sha256:c05a725c35f522cbefb8a2904a2e82a89fb104791491f3a0c02b94b1363a1031",
+    "hash": "E79A8A15E6214F813A20812A90D914E8CFE0D15E36790908D42D6D0416D22DAD",
     "extract_dir": "aimp",
     "bin": "aimp.exe",
     "shortcuts": [
