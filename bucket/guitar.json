@@ -1,0 +1,6 @@
+{
+    "version": "1.1.999",
+    "description": "Guitar is a Git GUI written in Qt",
+    "homepage": "https://github.com/soramimi/Guitar",
+    "url": "https://files.soramimi.jp/guitar/nightly/Guitar-1.1.999-win32-installer.exe"
+}
