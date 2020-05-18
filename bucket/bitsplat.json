@@ -1,8 +1,8 @@
 {
-    "version": "1.10",
+    "version": "1.14",
     "description": "Bitsplat is a tool for synchronising files primarily focused on periodic and partial media sharing with portable drives. Think of it as a poor-man's bittorrent aimed at using physical media instead of network packets.",
     "homepage": "https://github.com/fluffynuts/bitsplat",
-    "url": "https://github.com/fluffynuts/bitsplat/releases/download/v1.10/bitsplat-win-x64-1.10.zip",
-    "hash": "14a3442d5629193920672ad2be290a482fcabb0471af3c2052f45ae6ad66909c",
+    "url": "https://github.com/fluffynuts/bitsplat/releases/download/v1.10/bitsplat-win-x64-1.14.zip",
+    "hash": "1feed8e57d604ca41752ceba09c8500754ef5e4f446253f7a4fcce263d59840f",
     "bin": "bitsplat.exe"
 }
